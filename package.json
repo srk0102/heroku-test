@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "clear": "^0.1.0",
+    "pg": "^8.11.5",
+    "pg-connection-string": "^2.6.4"
+  }
+}
